@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2945ba3358b80d042ac850cd58d298d7, type: 3}
+  m_Name: MeatPattyCooked-MeatPattyBurned
+  m_EditorClassIdentifier: Assembly-CSharp::BurningRecipeSO
+  _input: {fileID: 11400000, guid: c38fbfb2d9926bc4c9e80ae414607522, type: 2}
+  _output: {fileID: 11400000, guid: 311d67008e549c848851bfa28c05b537, type: 2}
+  _burningTimerMax: 6

@@ -1,0 +1,33 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# VS/Rider
+.vscode/
+.idea/
+*.sln
+*.user
+*.csproj
+*.pidb
+*.unityproj
+*.svd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crash/Cache
+*.stacktrace
+*.apk
+*.aab
+
+# Keep these!
+!Assets/
+!Packages/
+!ProjectSettings/
